@@ -2,7 +2,8 @@
 
 ## Abstract
 
-**SunSentry** is a mobile application designed to promote proper sun care by recommending sunscreen with the appropriate SPF based on the user's location. Using GPS data, the app calculates the UV index in the user's area and suggests the optimal level of sun protection. SunSentry simplifies the process of selecting the right sunscreen by offering personalized, location-based recommendations, making sun protection easy and accessible.
+**SunSentry** is a mobile application designed to promote proper sun care by recommending sunscreen with the appropriate SPF based on the user's location. Using GPS data, the app calculates the UV index in the user's area and suggests the optimal level of sun protection. 
+SunSentry simplifies the process of selecting the right sunscreen by offering personalized, location-based recommendations, making sun protection easy and accessible.
 
 ## Introduction
 
